@@ -19,7 +19,7 @@ export function Navigation({ onNavigate, currentPage }: NavigationProps) {
             <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
               <BookOpen className="w-6 h-6 text-white" />
             </div>
-            <span className="font-bold text-xl text-gray-900 dark:text-white">NCERT AI</span>
+            <span className="font-bold text-xl text-gray-900 dark:text-white">ZAPLEARN</span>
           </div>
 
           <div className="hidden md:flex items-center gap-6">
