@@ -1,4 +1,4 @@
-# NCERT AI Doubt Solver - Project Overview
+# ZAPLEARN Doubt Solver - Project Overview
 
 ## What Was Built
 
